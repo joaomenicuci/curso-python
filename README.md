@@ -1,6 +1,6 @@
 # Python
 
- ## Curso de Python com 120 horas
+## Curso de Python com 120 horas
  
  Este curso de Python é fornecido pelo site do [Curso em Vídeo](https://www.cursoemvideo.com/), e as aulas são ministradas pelo professor Gustavo Guanabara.
  
