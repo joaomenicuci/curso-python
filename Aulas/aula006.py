@@ -1,5 +1,5 @@
 #   Tipos Primitivos
-    #   int(10), float(10.5), bool(True / False), str('olá')
+    #   Tipos:  int(), float(), bool(), str()
 
 #   Exercício 1
 
