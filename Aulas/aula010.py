@@ -1,5 +1,5 @@
 #   Condições
-    # Tipos de Condições:   if, else
+    # Tipos de Condições:   if:, else:
 
 #   Exercício 1
 
