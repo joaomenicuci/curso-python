@@ -1,5 +1,5 @@
 #   Estrutura de Repetição
-    # Tipo de Condição:     for
+    # Tipo de Condição:     for:
 
 #   Exercício 1
 
