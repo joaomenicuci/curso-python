@@ -11,10 +11,10 @@ while True:
     if resp in 'N':
         break
 print('-'*50)
-print(f'{"No.":<4}{"NOME":<10}{"MÉDIA":>8}')
+print(f'{"No.":<5}{"NOME":<10}{"MÉDIA":>10}')
 print('-'*50)
 for i, a in enumerate(ficha):
-    print(f'{i:<4} {a[0]:<10} {a[2]:>8.1f}')
+    print(f'{i:<5}{a[0]:<15}{a[2]}')
 while True:
     print('-'*50)
     opc = int(input('Mostrar notas de qual aluno (999 interrompe)? '))
