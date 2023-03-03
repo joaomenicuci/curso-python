@@ -1,0 +1,1 @@
+from ex112.packutilidades import moeda, dado
